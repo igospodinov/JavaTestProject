@@ -7,3 +7,4 @@ This repository represents a template workspace for bndtools, it is the easiest 
 [2]: http://enroute.osgi.org/tutorial_base/800-ci.html
 [3]: https://www.gradle.org/
 "# JavaTestProject" 
+"# JavaTestProject" 
